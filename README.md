@@ -28,3 +28,8 @@
 ![SharedScreenshot](https://user-images.githubusercontent.com/74312429/145234891-b1bd5dfc-ccc4-448c-83b3-e32c0bcb7338.jpg)
 ![SharedScreenshot](https://user-images.githubusercontent.com/74312429/145235173-2f26886d-679e-41b9-9a49-3e651c80776a.jpg)
 ![SharedScreenshot](https://user-images.githubusercontent.com/74312429/145235293-d2b5741a-216b-44bd-98cc-4acc7b808cc9.jpg)
+
+## Facts
+ * *React Native is a mixture of javascript and HTML.*
+ * *React Native is the framework of javascript.*
+ * *Flask is the framework of python.*

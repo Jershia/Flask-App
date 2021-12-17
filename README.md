@@ -11,7 +11,7 @@
 ## Steps To Create A Flask App
   * *We created a new folder and created a new virtual environment.*
   * *Installed Flask inside the virtual environment.*
-  * *We created a simple hello world application.*
+  * *We created a simple hello world application using a decorator.*
   * *We ran the code and saw the output on the web browser*
   * *Then we learned about the GET ,POST, PUT and DELETE methods.*
       * *GET - gets information.*
